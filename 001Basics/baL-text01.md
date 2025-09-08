@@ -4,12 +4,11 @@
     <meta charset="UTF-8">
     <style type="text/css">
         body{
-            backgroung-image: url(./images/0/2.png);
+            backgroung-image: url(images/0/2.png/);
         }
     </style>
 </head>
 <body>
-<img src="images/0/2.png/">
 <h1>静夜思</h1>
 <p>床前明月光，</p>
 <p>疑似地上霜。</p>
