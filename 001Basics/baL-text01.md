@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>唐诗一首</title>
     <style type="text/css">
         body{
             background-image:url('./images/1.jpeg');
