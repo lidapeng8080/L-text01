@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
 </head>
 <body>
-<img scr="2.png/">
+<img src="2.png/">
 <h1>静夜思</h1>
 <p>床前明月光，</p>
 <p>y疑似地上霜。</p>
