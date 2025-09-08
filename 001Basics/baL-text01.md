@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <style type="text/css">
         body{
-            background-image: url(.images/0/2.png);
+            background-image: url(./images/0/2.png);
         }
     </style>
 </head>
